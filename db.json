@@ -1,0 +1,34 @@
+{
+  "registeredUsers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "JohnDoe@gmail.com",
+      "message": "Test Message"
+    },
+    {
+      "id": "94bc",
+      "name": "ddjdj",
+      "email": "djdjdj@rr.co",
+      "message": "ckckc"
+    },
+    {
+      "id": "5735",
+      "name": "fkfkfk",
+      "email": "fkfkf@rr.co",
+      "message": "kdkd ddk"
+    },
+    {
+      "id": "39c4",
+      "name": "fkfkfk",
+      "email": "fkfkfkf@ff.co",
+      "message": "message"
+    },
+    {
+      "id": "e65a",
+      "name": "jamal",
+      "email": "jamaal@gg.vo",
+      "message": "Message"
+    }
+  ]
+}
